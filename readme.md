@@ -54,7 +54,7 @@
     <div class="row">
       <div class="col-md-4 mb-4">
         <h4>Iconic Landmarks</h4>
-        <p>Buy and trade properties from Martyrs' Square to the Corniche and beyond.</p>
+        <p>Buy and trade properties from Martyrs' Square to the Rawshe and beyond.</p>
       </div>
       <div class="col-md-4 mb-4">
         <h4>Real Beirut Twists</h4>
